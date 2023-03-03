@@ -1,5 +1,5 @@
-#ifndef SOME_UNIQUE_NAME_HERE
-#define SOME_UNIQUE_NAME_HERE
+#ifndef IO_H
+#define IO_H
 
 int readNumber();
 void writeAnswer(int a, int b);
